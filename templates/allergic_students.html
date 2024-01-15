@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Allergic Students</title>
+</head>
+
+<body>
+    <h1>这几位同学对{{dish_name}}过敏</h1>
+    <h1>Allergic Students</h1>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Allergies</th>
+        </tr>
+        {% for student in allergic_students %}
+        <tr>
+            <td>{{ student.id }}</td>
+            <td>{{ student.name }}</td>
+            <td>{{ student.allergies }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h1>为同学添加加餐</h1>
+    <form method="POST">
+        <label for="dish_name">Dish Name:</label>
+        <input type="text" id="dish_name" name="dish_name" required><br>
+
+        <label for="ingredients">Ingredients:</label>
+        <textarea id="ingredients" name="ingredients" rows="4" cols="50" required></textarea><br>
+
+        <input type="submit" value="Cook Dish">
+    </form>
+
+</body>
+
+</html>

@@ -1,0 +1,122 @@
+[
+    {
+        "name": "John Smith",
+        "allergies": "None"
+    },
+    {
+        "name": "Emily Johnson",
+        "allergies": "Peanuts, Shellfish"
+    },
+    {
+        "name": "Michael Davis",
+        "allergies": "Dairy"
+    },
+    {
+        "name": "Sarah Wilson",
+        "allergies": "Gluten"
+    },
+    {
+        "name": "Christopher Brown",
+        "allergies": "None"
+    },
+    {
+        "name": "Jessica Lee",
+        "allergies": "Eggs"
+    },
+    {
+        "name": "Daniel Martinez",
+        "allergies": "Peanuts, Tree Nuts"
+    },
+    {
+        "name": "Olivia Anderson",
+        "allergies": "Dairy, Soy"
+    },
+    {
+        "name": "William Taylor",
+        "allergies": "None"
+    },
+    {
+        "name": "Sophia Rodriguez",
+        "allergies": "Wheat"
+    },
+    {
+        "name": "Joseph Thomas",
+        "allergies": "None"
+    },
+    {
+        "name": "Mia Martinez",
+        "allergies": "Peanuts, Eggs"
+    },
+    {
+        "name": "James Harris",
+        "allergies": "None"
+    },
+    {
+        "name": "Ava White",
+        "allergies": "Dairy, Soy"
+    },
+    {
+        "name": "Benjamin Miller",
+        "allergies": "None"
+    },
+    {
+        "name": "Chloe Jackson",
+        "allergies": "Wheat, Soy"
+    },
+    {
+        "name": "Matthew Lopez",
+        "allergies": "None"
+    },
+    {
+        "name": "Amelia Garcia",
+        "allergies": "Eggs, Shellfish"
+    },
+    {
+        "name": "Samuel Harris",
+        "allergies": "None"
+    },
+    {
+        "name": "Harper Lewis",
+        "allergies": "Dairy, Soy"
+    },
+    {
+        "name": "David Turner",
+        "allergies": "None"
+    },
+    {
+        "name": "Evelyn Clark",
+        "allergies": "Peanuts"
+    },
+    {
+        "name": "Benjamin Mitchell",
+        "allergies": "None"
+    },
+    {
+        "name": "Mia Edwards",
+        "allergies": "Gluten, Tree Nuts"
+    },
+    {
+        "name": "Christopher Lewis",
+        "allergies": "None"
+    },
+    {
+        "name": "Charlotte Turner",
+        "allergies": "Dairy, Eggs"
+    },
+    {
+        "name": "Samuel Allen",
+        "allergies": "None"
+    },
+    {
+        "name": "Amelia Davis",
+        "allergies": "Peanuts"
+    },
+    {
+        "name": "Ethan Scott",
+        "allergies": "None"
+    },
+    {
+        "name": "Abigail Walker",
+        "allergies": "Dairy, Wheat"
+    }
+]
